@@ -3,3 +3,4 @@ No, you’ll just have to wait
 Just trust in the good time
 No matter how long it takes
 This text is for the first commit(for feature).
+This text is for the second commit(for feature).
